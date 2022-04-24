@@ -12,7 +12,7 @@ INPUT_DIR_NAME = "icons"
 OUTPUT_DIR_NAME = "icons_processed"
 
 ALLOWED_ROOT_ATTRIBUTES = ("width", "height", "viewBox")
-ALLOWED_PATH_ATTRIBUTES = ("d", "x", "y", "width", "height", "rx", "ry", "fill-rule")
+ALLOWED_PATH_ATTRIBUTES = ("d", "x", "y", "width", "height", "cx", "cy", "rx", "ry", "r", "fill-rule")
 
 
 def clean_svg_icon(file_path, output_file_path):
