@@ -1,52 +1,15 @@
-<p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16" fill="currentColor">
-<path d="m6 0a6 6 0 00-6 6 6 6 0 005 5.908203v4.091797h11v-11h-4.085938a6 6 0 00-5.914062-5zm0 2a4 4 0 013.871094 3h-3.871094a1 1 0 00-1 1 1 1 0 001 1h8v7h-7v-4h-1a4 4 0 01-4-4 4 4 0 014-4z" fill-rule="evenodd"/>
-</svg></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/eyecons.svg#gh-light-mode-only" width=32 height=32>
+<img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/eyecons.svg#gh-dark-mode-only" width=32 height=32>
+</p>
 <h3 align="center">eyecons</h3>
 <p align="center">A work-in-progress collection of 16x16 icons</p>
 
 #### Examples:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m13 14h-2v-3h3v2c0 .554-.446 1-1 1zm0 2h-4v-7h7v4c0 1.662-1.338 3-3 3zm-10-2h2v-3h-3v2c0 .554.446 1 1 1zm0 2h4v-7h-7v4c0 1.662 1.338 3 3 3zm10-14h-2v3h3v-2c0-.554-.446-1-1-1zm0-2h-4v7h7v-4c0-1.662-1.338-3-3-3zm-10 2h2v3h-3v-2c0-.554.446-1 1-1zm0-2h4v7h-7v-4c0-1.662 1.338-3 3-3z" fill-rule="evenodd" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m14 4.1738v8.8262c0 0.554-0.446 1-1 1h-8.8262c0.41051 1.1666 1.5157 2 2.8262 2h6c1.662 0 3-1.338 3-3v-6c0-1.3105-0.83335-2.4157-2-2.8262zm-11-2.1738h6c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1zm0-2h6c1.662 0 3 1.338 3 3v6c0 1.662-1.338 3-3 3h-6c-1.662 0-3-1.338-3-3v-6c0-1.662 1.338-3 3-3z" fill-rule="evenodd" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m5 2h3v4h4v7c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1zm0-2c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-7.8281l-5.1719-5.1719z" fill-rule="evenodd" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m3 5h10c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1zm0-4c-1.6274 0-3 1.3726-3 3v8c0 1.6274 1.3726 3 3 3h10c1.6274 0 3-1.3726 3-3v-6c0-1.6274-1.3726-3-3-3h-4l-2-2z" fill-rule="evenodd" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m8 0a8 8 0 00-8 8 8 8 0 008 8 8 8 0 008-8 8 8 0 00-8-8zm0 2a1.5 6 0 011.2597656 2.75h-2.5195312a1.5 6 0 011.2597656-2.75zm2.574219.5800781a6 6 0 012.466797 2.1699219h-1.84375a3.5 8 0 00-.623047-2.1699219zm-5.1425784.0097657a3.5 8 0 00-.625 2.1601562h-1.8300781a6 6 0 012.4550781-2.1601562zm-3.2832031 4.1601562h2.3984375a3.5 8 0 00-.046875 1.25 3.5 8 0 00.046875 1.25h-2.3984375a6 6 0 01-.1484375-1.25 6 6 0 01.1484375-1.25zm4.3886719 0h2.9296875a1.5 6 0 01.0332031 1.25 1.5 6 0 01-.0371094 1.25h-2.9257812a1.5 6 0 01-.0371094-1.25 1.5 6 0 01.0371094-1.25zm4.9199216 0h2.410157a6 6 0 01.132812 1.25 6 6 0 01-.148438 1.25h-2.398437a3.5 8 0 00.046875-1.25 3.5 8 0 00-.042969-1.25zm-8.4804685 4.5h1.8300781a3.5 8 0 00.625 2.160156 6 6 0 01-2.4550781-2.160156zm3.7636719 0h2.5195312a1.5 6 0 01-1.2597656 2.75 1.5 6 0 01-1.2597656-2.75zm4.4531246 0h1.830079a6 6 0 01-2.455079 2.160156 3.5 8 0 00.625-2.160156z" fill-rule="evenodd" />
-</svg>
-
+<img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/apps.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/apps.svg#gh-dark-mode-only"> <img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/copy.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/copy.svg#gh-dark-mode-only"> <img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/file.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/file.svg#gh-dark-mode-only"> <img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/folder.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/folder.svg#gh-dark-mode-only"> <img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/globe.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/globe.svg#gh-dark-mode-only">
 <br/>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m8 2.414-6 6v4.586c0 .554.446 1 1 1h3v-5h4v5h3c.554 0 1-.446 1-1v-4.586zm8 10.586c0 1.662-1.338 3-3 3h-10c-1.662 0-3-1.338-3-3v-5c0-.26522.10536-.51957.29289-.70711l7-7c.39052-.39052 1.0237-.39052 1.4142-4e-8l7 7c.18754.18754.29289.44189.29289.70711z" fill-rule="evenodd" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m7 0a2 2 0 00-2 2h-2c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h8c1.662 0 3-1.338 3-3v-2a2 2 0 002-2 2 2 0 00-2-2v-2c0-1.662-1.338-3-3-3h-2a2 2 0 00-2-2zm-4 4h8c.554 0 1 .446 1 1v8c0 .554-.446 1-1 1h-2a2 2 0 00-2-2 2 2 0 00-2 2h-2c-.554 0-1-.446-1-1v-2a2 2 0 002-2 2 2 0 00-2-2v-2c0-.554.446-1 1-1z" fill-rule="evenodd" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m8 0a8 8 0 00-8 8 8 8 0 008 8 1 1 0 001-1 1 1 0 00-1-1 6 6 0 01-6-6 6 6 0 016-6 6 6 0 016 6v1a1 1 0 01-1 1 1 1 0 01-1-1v-1a4 4 0 00-4-4 4 4 0 00-4 4 4 4 0 004 4 4 4 0 002.710938-1.068359 3 3 0 002.289062 1.068359 3 3 0 003-3v-1a8 8 0 00-8-8zm0 6a2 2 0 012 2 2 2 0 01-2 2 2 2 0 01-2-2 2 2 0 012-2z" fill-rule="evenodd" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m5 10h4c.554 0 1 .446 1 1s-.446 1-1 1h-4c-.554 0-1-.446-1-1s.446-1 1-1zm0-3h6c.554 0 1 .446 1 1s-.446 1-1 1h-6c-.554 0-1-.446-1-1s.446-1 1-1zm0-3h6c.554 0 1 .446 1 1s-.446 1-1 1h-6c-.554 0-1-.446-1-1s.446-1 1-1zm-2-2h10c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1h-10c-.554 0-1-.446-1-1v-10c0-.554.446-1 1-1zm0-2h10c1.662 0 3 1.338 3 3v10c0 1.662-1.338 3-3 3h-10c-1.662 0-3-1.338-3-3v-10c0-1.662 1.338-3 3-3z" fill-rule="evenodd" />
-</svg>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-<path d="m14 15c0 0.55228-0.44772 1-1 1s-1-0.44772-1-1v-3c0-0.554-0.446-1-1-1h-6c-0.554 0-1 0.446-1 1v3c0 0.55228-0.44772 1-1 1s-1-0.44772-1-1v-3c0-1.662 1.338-3 3-3h6c1.662 0 3 1.338 3 3zm-4-11a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2zm2 0a4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4 4 4 0 0 1 4 4z" fill-rule="evenodd" />
-</svg>
+<img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/home.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/home.svg#gh-dark-mode-only"> <img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/jigsaw.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/jigsaw.svg#gh-dark-mode-only"> <img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/symbol_at.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/symbol_at.svg#gh-dark-mode-only"> <img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/text.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/text.svg#gh-dark-mode-only"> <img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_black/user.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/IAmRuMaks/eyecons/main/readme_assets/icons_white/user.svg#gh-dark-mode-only">
 
 
 #### Usage
