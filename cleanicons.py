@@ -9,13 +9,12 @@ ElementTree.register_namespace("", "http://www.w3.org/2000/svg")
 
 
 INPUT_DIR_NAME = "icons"
-OUTPUT_DIR_NAME = "icons_processed"
 
 ALLOWED_ROOT_ATTRIBUTES = ("width", "height", "viewBox")
 ALLOWED_PATH_ATTRIBUTES = ("d", "x", "y", "width", "height", "cx", "cy", "rx", "ry", "r", "fill-rule")
 
 
-def clean_svg_icon(file_path, output_file_path):
+def clean_svg_icon(file_path):
     tree = ElementTree.parse(file_path)
     root = tree.getroot()
 
@@ -34,10 +33,8 @@ def clean_svg_icon(file_path, output_file_path):
                 attrib_new[attribute] = child.attrib[attribute]
         child.attrib = attrib_new
 
-    tree.write(output_file_path)
+    tree.write(file_path)
 
-
-makedirs(OUTPUT_DIR_NAME, exist_ok=True)
 
 for path in listdir(INPUT_DIR_NAME):
-    clean_svg_icon(join(INPUT_DIR_NAME, path), join(OUTPUT_DIR_NAME, path))
+    clean_svg_icon(join(INPUT_DIR_NAME, path))
