@@ -7,7 +7,7 @@ from os.path import join
 
 ElementTree.register_namespace("", "http://www.w3.org/2000/svg")
 
-INPUT_DIR_NAME = "icons/new_icons"
+INPUT_DIR_NAME = "icons/uncolored"
 
 ALLOWED_ROOT_ATTRIBUTES = ("width", "height", "viewBox")
 ALLOWED_PATH_ATTRIBUTES = ("d", "x", "y", "width", "height", "cx", "cy", "rx", "ry", "r", "fill-rule")
