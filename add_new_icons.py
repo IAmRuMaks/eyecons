@@ -51,6 +51,3 @@ for output_dir in ADDITIONAL_ATTRIBUTES:
 
     for icon_name in listdir(INPUT_DIR_NAME):
         clean_svg_icon(join(INPUT_DIR_NAME, icon_name), join(output_dir, icon_name), ADDITIONAL_ATTRIBUTES[output_dir])
-
-for icon_name in listdir(INPUT_DIR_NAME):
-    remove(join(INPUT_DIR_NAME, icon_name))
