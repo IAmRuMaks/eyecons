@@ -18,3 +18,4 @@
 <li><a href=./icons/uncolored/><code>icons/uncolored/</code></a> - for use in websites. Just copy and paste the contents of an SVG file anywhere in your HTML document. These icons will use the same color as their parent element.</li>
 <li><a href=./icons/black/><code>icons/black/</code></a> and <a href=./icons/white/><code>icons/white/</code></a> - for use anywhere else. These icons are normal SVG images.</li>
 </ul>
+<p align="center"><a href=https://creativecommons.org/licenses/by-sa/4.0/><img src="https://img.shields.io/github/license/IAmRuMaks/eyecons?style=for-the-badge"></a></p>
