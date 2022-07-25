@@ -9,7 +9,6 @@ ElementTree.register_namespace("", "http://www.w3.org/2000/svg")
 
 INPUT_DIR_NAME = "icons/uncolored"
 
-ALLOWED_ROOT_ATTRIBUTES = ("width", "height", "viewBox")
 ALLOWED_PATH_ATTRIBUTES = ("d", "x", "y", "width", "height", "cx", "cy", "rx", "ry", "r", "fill-rule")
 ADDITIONAL_ATTRIBUTES = {
     "icons/uncolored": ({"fill": "currentColor"}, {}),
@@ -22,10 +21,7 @@ def clean_svg_icon(input_file_path, output_file_path, additional_attributes):
     tree = ElementTree.parse(input_file_path)
     root = tree.getroot()
 
-    attrib_new = {}
-    for attribute in root.attrib:
-        if attribute in ALLOWED_ROOT_ATTRIBUTES:
-            attrib_new[attribute] = root.attrib[attribute]
+    attrib_new = {"width": "16", "height": "16", "viewBox": "0 0 16 16"}
 
     for attribute in additional_attributes[0]:
         attrib_new[attribute] = additional_attributes[0][attribute]
